@@ -1,5 +1,5 @@
 import openai 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def call_openai(prompt, max_tokens=1200):
